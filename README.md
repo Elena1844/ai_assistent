@@ -2,6 +2,13 @@
 
 ссылка на проект - @Paskhalnyjhelper_bot
 
+скриншоты  - 
+https://github.com/Elena1844/ai_assistent/blob/main/WhatsApp%20Image%202025-02-26%20at%2020.35.11.jpeg?raw=true
+https://github.com/Elena1844/ai_assistent/blob/main/WhatsApp%20Image%202025-02-26%20at%2020.35.12%20(1).jpeg?raw=true
+https://github.com/Elena1844/ai_assistent/blob/main/WhatsApp%20Image%202025-02-26%20at%2020.35.12%20(2).jpeg?raw=true
+https://github.com/Elena1844/ai_assistent/blob/main/WhatsApp%20Image%202025-02-26%20at%2020.35.12.jpeg?raw=true
+
+
 ## О проекте
 
 "Пасхальный Помощник" — это инновационный ИИ-ассистент, разработанный специально для помощи в организации и оформлении предварительных заказов на пасхальные куличи. С помощью передовых технологий искусственного интеллекта этот ассистент способен вести осмысленный диалог с клиентами, отвечать на вопросы из базы знаний, записывать их на встречи и автоматически добавлять эти встречи в Google Календарь.
