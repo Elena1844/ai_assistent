@@ -7,6 +7,10 @@
 
 ![Иллюстрация к проекту](https://github.com/Elena1844/ai_assistent/blob/main/WhatsApp%20Image%202025-02-26%20at%2020.35.12%20(1).jpeg?raw=true)
 
+![Иллюстрация к проекту]([https://example.com/image.png](https://github.com/Elena1844/ai_assistent/blob/main/WhatsApp%20Image%202025-02-26%20at%2020.35.12%20(2).jpeg?raw=true)
+
+![Иллюстрация к проекту]([https://example.com/image.png](https://github.com/Elena1844/ai_assistent/blob/main/WhatsApp%20Image%202025-02-26%20at%2020.35.12.jpeg?raw=true)
+
 
 ## О проекте
 
